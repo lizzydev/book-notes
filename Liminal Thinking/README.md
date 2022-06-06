@@ -1,2 +1,1 @@
-# book-notes
-I love to read! If you'd like to see my notes and thoughts, take a look!
+## [Liminal Thinking](https://www.goodreads.com/book/show/30197119-liminal-thinking), Dave Gray

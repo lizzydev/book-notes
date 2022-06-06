@@ -1,2 +1,1 @@
-# book-notes
-I love to read! If you'd like to see my notes and thoughts, take a look!
+## [Start With Why](https://www.goodreads.com/book/show/7108725-start-with-why), Simon Sinek

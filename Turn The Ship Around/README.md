@@ -1,2 +1,1 @@
-# book-notes
-I love to read! If you'd like to see my notes and thoughts, take a look!
+## [Turn the Ship Around!](https://www.goodreads.com/book/show/16158601-turn-the-ship-around), L. David Marquet

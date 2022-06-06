@@ -1,2 +1,1 @@
-# book-notes
-I love to read! If you'd like to see my notes and thoughts, take a look!
+## [Thinking In Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems), Donella H. Meadows, Diana Wright

@@ -1,2 +1,1 @@
-# book-notes
-I love to read! If you'd like to see my notes and thoughts, take a look!
+## [Game Programming Patterns](https://www.goodreads.com/book/show/15499449-game-programming-patterns), Robert Nystrom

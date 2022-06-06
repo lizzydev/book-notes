@@ -1,2 +1,1 @@
-# book-notes
-I love to read! If you'd like to see my notes and thoughts, take a look!
+## [Collaborative Product Design](https://www.goodreads.com/book/show/34431412-collaborative-product-design), Austin Govella
